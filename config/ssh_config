@@ -1,4 +1,4 @@
-Host localhost
+Host 192.168.0.14
   StrictHostKeyChecking no
 
 Host 0.0.0.0
